@@ -4,7 +4,7 @@
     "description": "Joomla implementation of Hirudo",
     "keywords": ["Hirudo", "implementation", "joomla"],
     "homepage": "https://github.com/JeyDotC/Hirudo",
-    "license": "GNU/GPL",
+    "license": "GNU-GPL",
     "authors": [
         {"name": "Jeysson Jose Guevara Mendivil", "email": "jeydotc@gmail.com"}
     ],
